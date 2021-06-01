@@ -7,10 +7,13 @@
 [![SensioLabsInsight](https://insight.sensiolabs.com/projects/801ce3d1-ac8c-455e-9e4d-53b3d0b3991a/mini.png)](https://insight.sensiolabs.com/projects/801ce3d1-ac8c-455e-9e4d-53b3d0b3991a)
 
 Adds some minimal validation rules for credit card.
+
+This fork from original author rap2hpoutre/laravel-credit-card-validator is to support php 7.4 as there are issues
+
 ## Install
 Install via composer
 ```
-composer require rap2hpoutre/laravel-credit-card-validator
+composer require selay/laravel-credit-card-validator
 ```
 Add Service Provider to `config/app.php` in `providers` section
 ```php
