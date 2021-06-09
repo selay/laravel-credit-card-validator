@@ -2,7 +2,7 @@
     "name": "selay/laravel-credit-card-validator",
     "description": "Laravel credit card validator",
     "license": "MIT",
-    "keywords": ["validator", "laravel", "credit card"],
+    "keywords": ["validator", "laravel", "credit card","php 7.4 compatible "],
     "authors": [
         {
             "name": "el",
